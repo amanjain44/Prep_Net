@@ -1,7 +1,7 @@
 
 # PREP-NET 
 
-[Visit Prep-Net](https://prep-net.cyclic.app/)
+
 
 Prep-Net is a powerful MERN stack web app that enables users to read through interview experiences shared by college seniors. It provides valuable insights into the interview process, company-specific preparation, and tips for success. This web app can be a valuable resource for students preparing for job interviews.
 
@@ -37,11 +37,7 @@ Prep-Net is a powerful MERN stack web app that enables users to read through int
 [Nodemailer](https://nodemailer.com/about/)
 
 
-## Related
 
-Here are some related projects
-
-[Campus-Connect](https://campus-connect-14.netlify.app/)
 
 
 ## Run Locally
@@ -92,13 +88,5 @@ To run this project, you will need to add the following environment variables to
 
 `TEST`  i.e. jwt-secret
 
-## Feedback
-
-If you have any feedback, please reach me out at ryanrego14@gmail.com
-
-
-## 🔗 Links
-
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryan-rego-3111ab229/)
 
 
